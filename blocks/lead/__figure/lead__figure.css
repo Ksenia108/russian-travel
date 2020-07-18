@@ -1,0 +1,6 @@
+.lead__figure {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 40px 0 64px;
+}
