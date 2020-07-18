@@ -6,33 +6,11 @@
 @import url('./blocks/cover/cover.css');
 @import url('./blocks/photo-grid/photo-grid.css');
 @import url('./blocks/places/places.css');
+@import url('./blocks/place/place.css');
 @import url('./blocks/cover/');
 @import url('./blocks/footer/footer.css');
 @import url('./blocks/links/links.css');
+@import url('./fonts/inter.css');
 .page {
     background: #2A2C2F;
-}
-
-@font-face {
-    font-family: Inter;
-    src: url('./fonts/Inter-Regular.woff');
-    font-weight: normal;
-}
-
-@font-face {
-    font-family: Inter;
-    src: url('./fonts/Inter-Regular.woff2');
-    font-weight: normal;
-}
-
-@font-face {
-    font-family: Inter;
-    src: url('./fonts/Inter-Regular.ttf');
-    font-weight: normal;
-}
-
-@font-face {
-    font-family: Inter;
-    src: url('./fonts/Inter-Bold.woff');
-    font-weight: bold;
 }

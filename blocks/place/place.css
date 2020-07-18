@@ -6,7 +6,7 @@
 @import url('./__website/place__website.css');
 @import url('./__grid/place__grid.css');
 .place {
-    width: 100%;
+    max-width: 100%;
     display: grid;
     grid-gap: 32px;
 }
