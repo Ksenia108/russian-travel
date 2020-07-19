@@ -9,6 +9,7 @@
     min-height: 200px;
     box-sizing: border-box;
     margin: 0;
+    background-position: center;
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -19,14 +20,12 @@
 @media screen and (min-width: 768px) {
     .cover {
         min-height: 480px;
-        margin: 0;
     }
 }
 
 @media screen and (min-width: 1024px) {
     .cover {
         min-height: 640px;
-        margin: 0;
     }
 }
 
@@ -36,7 +35,3 @@
         margin: 0 48px;
     }
 }
-
-
-/* @media screen and (max-width: 234px); 
-padding: 195px 232px 195px;*/
