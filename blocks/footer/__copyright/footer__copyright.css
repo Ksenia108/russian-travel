@@ -12,18 +12,6 @@
     .footer__copyright {
         font-size: 14px;
         line-height: 16px;
-        margin-left: 69px;
-    }
-}
-
-@media screen and (min-width: 1024px) {
-    .footer__copyright {
-        margin-left: 277px;
-    }
-}
-
-@media screen and (min-width: 1280px) {
-    .footer__copyright {
-        margin-left: 533px;
+        margin-left: auto;
     }
 }

@@ -15,11 +15,10 @@
 
 @media screen and (min-width: 768px) {
     .cover__subtitle {
-        font-size: 72px;
-        line-height: 76px;
-        margin: 32px 204px 115px;
         font-size: 18px;
         line-height: 22px;
+        grid-gap: 72px;
+        margin: 32px 204px 115px;
     }
 }
 

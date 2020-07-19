@@ -11,6 +11,4 @@
 @import url('./blocks/footer/footer.css');
 @import url('./blocks/links/links.css');
 @import url('./fonts/inter.css');
-.page {
-    background: #2A2C2F;
-}
+@import url('./blocks/page/page.css');
