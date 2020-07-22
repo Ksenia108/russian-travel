@@ -1,5 +1,4 @@
 .links {
-    text-decoration: underline;
     opacity: 1;
     transition: opacity 0.2s linear;
     color: #FFFFFF;
@@ -7,8 +6,4 @@
 
 .links:hover {
     opacity: .7;
-}
-
-.links:last-of-type {
-    text-decoration: none;
 }
